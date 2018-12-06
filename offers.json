@@ -1,0 +1,51 @@
+{
+  "offers": [
+    {
+      "coupon_url": "https://ar.retailmenot.com/v1.0/emailClick?campaignUuid=UPVFEZLNRZDX3D5KA5VT56MH3Y&userUuid=LLH2KNZIKZANRMYGGZIMNMBW3U&uuid=ALCU4OY2DBBVTCX7TGKUMYJC34&type=COUPON&redirectUrl=http%3a%2f%2fwww.retailmenot.com%2flanding5%2fhotels.com%3futm_content%3d9057447%26ei%3dLLH2KNZIKZANRMYGGZIMNMBW3U%26mailingid%3d55675%26ESP%3d2%26utm_medium%3demail%26utm_campaign%3d2017_08_25%26ch%3dnewsl%26utm_source%3dnewsletter%26utm_term%3dcontrol%26cus.ptp%3dflagship%26campaignUuid%3dUPVFEZLNRZDX3D5KA5VT56MH3Y%26unit_id%3dLGO5J4XEWA7CKBYNUD3QAAAAAA%26P13N%3d0%26c%3d9057447",
+      "display_type": "featured",
+      "expiration_date": "Ends Aug 27",
+      "lifestyle_image": "https://mediaservice.rmn.com/image/HAGGYMWHGBA4ZOE66TMIVIJDIY",
+      "offer_button_label": "Show Code",
+      "offer_type_label": "Code",
+      "store_image": "http://o.emailcdn.com/thumbs/logos/l/hotels.com-coupons.jpg",
+      "store_name": "Hotels.com",
+      "title": "Up to 50% Off Your Bookings + Extra 10% Off"
+    },
+    {
+      "coupon_url": "https://ar.retailmenot.com/v1.0/emailClick?campaignUuid=UPVFEZLNRZDX3D5KA5VT56MH3Y&userUuid=LLH2KNZIKZANRMYGGZIMNMBW3U&uuid=CXF3B2F7PJGCZKZ7C4ZQQY6DC4&type=COUPON&redirectUrl=http%3a%2f%2fwww.retailmenot.com%2flanding5%2fsouthwest.com%3futm_content%3d9063965%26ei%3dLLH2KNZIKZANRMYGGZIMNMBW3U%26mailingid%3d55675%26ESP%3d2%26utm_medium%3demail%26utm_campaign%3d2017_08_25%26ch%3dnewsl%26utm_source%3dnewsletter%26utm_term%3dcontrol%26cus.ptp%3dflagship%26campaignUuid%3dUPVFEZLNRZDX3D5KA5VT56MH3Y%26unit_id%3dLGO5U77EWA7CKBYNUD6AAAAAAA%26P13N%3d0%26c%3d9063965",
+      "display_type": "lifestyle_image",
+      "expiration_date": "Ends Aug 24",
+      "lifestyle_image": "https://mediaservice.rmn.com/image/NZLD6SQ4YRCJDCPZBYX2LANBDA",
+      "offer_button_label": "Get Deal",
+      "offer_type_label": "Sale",
+      "store_name": "Southwest",
+      "title": "Fares From $49 One Way"
+    },
+    {
+      "coupon_url": "https://ar.retailmenot.com/v1.0/emailClick?campaignUuid=UPVFEZLNRZDX3D5KA5VT56MH3Y&userUuid=LLH2KNZIKZANRMYGGZIMNMBW3U&uuid=DOUYMF5TFZERHAU7LSXZJBTKNA&type=COUPON&redirectUrl=http%3a%2f%2fwww.retailmenot.com%2flanding5%2fdickssportinggoods.com%3futm_content%3d9060899%26ei%3dLLH2KNZIKZANRMYGGZIMNMBW3U%26mailingid%3d55675%26ESP%3d2%26utm_medium%3demail%26utm_campaign%3d2017_08_25%26ch%3dnewsl%26utm_source%3dnewsletter%26utm_term%3dcontrol%26cus.ptp%3dflagship%26campaignUuid%3dUPVFEZLNRZDX3D5KA5VT56MH3Y%26unit_id%3d%26P13N%3d0%26c%3d9060899",
+      "display_type": "store_image",
+      "expiration_date": "Ends soon",
+      "offer_button_label": "Get Deal",
+      "offer_type_label": "Sale",
+      "store_image": "http://o.emailcdn.com/thumbs/logos/l/dickssportinggoods.com-coupons.jpg",
+      "store_name": "Dicks Sporting Goods",
+      "title": "Up to 50% Off Select Soccer Gear"
+    },
+    {
+      "coupon_url": "http://click.e.retailmenot.com/?qs=99dfa835ac1a82b6e1ed59f1f7ce9934dd96acb7fd342b3be6221bffa600566357d7b5a8b97cbb17ea822dfa7880a797671bf6b9ebcca18c02382ce92a5c05e6",
+      "display_type": "product",
+      "product_image": "https://mediaservice.retailmenot.com/image/IAP4GKKASZGHXAPQUWNEH4VTFQ",
+      "final_price": "$59.35",
+      "offer_button_label": "Shop Now",
+      "original_price": "$119.99",
+      "store_name": "Wayfair",
+      "title": "51% Off Green Spruce Artificial Christmas Tree w/ Lights"
+    },
+    {
+      "coupon_url": "http://click.e.retailmenot.com/?qs=69b156aa9c00cefd5fda670abdfee22087836686bef4a8eff1b6aa38290378651a7845b9b3af6a1e807d4d3801eb7e27b7834f7c673e0287",
+      "display_type": "text_link",
+      "store_name": "Amazon",
+      "title": "Up to 50% Off Today's Top Deals"
+    }
+  ]
+}
