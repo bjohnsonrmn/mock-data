@@ -1,7 +1,8 @@
 {
   "offers": [
     {
-      "coupon_url": "https://ar.retailmenot.com/v1.0/emailClick?campaignUuid=UPVFEZLNRZDX3D5KA5VT56MH3Y&userUuid=LLH2KNZIKZANRMYGGZIMNMBW3U&uuid=ALCU4OY2DBBVTCX7TGKUMYJC34&type=COUPON&redirectUrl=http%3a%2f%2fwww.retailmenot.com%2flanding5%2fhotels.com%3futm_content%3d9057447%26ei%3dLLH2KNZIKZANRMYGGZIMNMBW3U%26mailingid%3d55675%26ESP%3d2%26utm_medium%3demail%26utm_campaign%3d2017_08_25%26ch%3dnewsl%26utm_source%3dnewsletter%26utm_term%3dcontrol%26cus.ptp%3dflagship%26campaignUuid%3dUPVFEZLNRZDX3D5KA5VT56MH3Y%26unit_id%3dLGO5J4XEWA7CKBYNUD3QAAAAAA%26P13N%3d0%26c%3d9057447",
+      "coupon_url": "https://www.retailmenot.com/landing5/hotels.com?utm_content=9057447&unit_id=LGO5J4XEWA7CKBYNUD3QAAAAAA&c=9057447",
+      "coupon_uuid": "ALCU4OY2DBBVTCX7TGKUMYJC34",
       "display_type": "featured",
       "expiration_date": "Ends Aug 27",
       "lifestyle_image": "https://mediaservice.rmn.com/image/HAGGYMWHGBA4ZOE66TMIVIJDIY",
@@ -12,7 +13,8 @@
       "title": "Up to 50% Off Your Bookings + Extra 10% Off"
     },
     {
-      "coupon_url": "https://ar.retailmenot.com/v1.0/emailClick?campaignUuid=UPVFEZLNRZDX3D5KA5VT56MH3Y&userUuid=LLH2KNZIKZANRMYGGZIMNMBW3U&uuid=CXF3B2F7PJGCZKZ7C4ZQQY6DC4&type=COUPON&redirectUrl=http%3a%2f%2fwww.retailmenot.com%2flanding5%2fsouthwest.com%3futm_content%3d9063965%26ei%3dLLH2KNZIKZANRMYGGZIMNMBW3U%26mailingid%3d55675%26ESP%3d2%26utm_medium%3demail%26utm_campaign%3d2017_08_25%26ch%3dnewsl%26utm_source%3dnewsletter%26utm_term%3dcontrol%26cus.ptp%3dflagship%26campaignUuid%3dUPVFEZLNRZDX3D5KA5VT56MH3Y%26unit_id%3dLGO5U77EWA7CKBYNUD6AAAAAAA%26P13N%3d0%26c%3d9063965",
+      "coupon_url": "https://www.retailmenot.com/landing5/southwest.com?utm_content=9063965&unit_id=LGO5U77EWA7CKBYNUD6AAAAAAA&c=9063965",
+      "coupon_uuid": "CXF3B2F7PJGCZKZ7C4ZQQY6DC4",
       "display_type": "lifestyle_image",
       "expiration_date": "Ends Aug 24",
       "lifestyle_image": "https://mediaservice.rmn.com/image/NZLD6SQ4YRCJDCPZBYX2LANBDA",
@@ -22,7 +24,8 @@
       "title": "Fares From $49 One Way"
     },
     {
-      "coupon_url": "https://ar.retailmenot.com/v1.0/emailClick?campaignUuid=UPVFEZLNRZDX3D5KA5VT56MH3Y&userUuid=LLH2KNZIKZANRMYGGZIMNMBW3U&uuid=DOUYMF5TFZERHAU7LSXZJBTKNA&type=COUPON&redirectUrl=http%3a%2f%2fwww.retailmenot.com%2flanding5%2fdickssportinggoods.com%3futm_content%3d9060899%26ei%3dLLH2KNZIKZANRMYGGZIMNMBW3U%26mailingid%3d55675%26ESP%3d2%26utm_medium%3demail%26utm_campaign%3d2017_08_25%26ch%3dnewsl%26utm_source%3dnewsletter%26utm_term%3dcontrol%26cus.ptp%3dflagship%26campaignUuid%3dUPVFEZLNRZDX3D5KA5VT56MH3Y%26unit_id%3d%26P13N%3d0%26c%3d9060899",
+      "coupon_url": "https://www.retailmenot.com/landing5/dickssportinggoods.com?utm_content=9060899&unit_id=&c=9060899",
+      "coupon_uuid": "DOUYMF5TFZERHAU7LSXZJBTKNA",
       "display_type": "store_image",
       "expiration_date": "Ends soon",
       "offer_button_label": "Get Deal",
@@ -32,20 +35,22 @@
       "title": "Up to 50% Off Select Soccer Gear"
     },
     {
-      "coupon_url": "http://click.e.retailmenot.com/?qs=99dfa835ac1a82b6e1ed59f1f7ce9934dd96acb7fd342b3be6221bffa600566357d7b5a8b97cbb17ea822dfa7880a797671bf6b9ebcca18c02382ce92a5c05e6",
+      "coupon_url": "https://www.retailmenot.com/ideas/greatdeals?featured=37391&utm_content=37391&unit_id=LQAAUGPEWD27FDPUDRNAAAAAAA",
       "display_type": "product",
-      "product_image": "https://mediaservice.retailmenot.com/image/IAP4GKKASZGHXAPQUWNEH4VTFQ",
       "final_price": "$59.35",
       "offer_button_label": "Shop Now",
       "original_price": "$119.99",
+      "product_id": 37391,
+      "product_image": "https://mediaservice.retailmenot.com/image/IAP4GKKASZGHXAPQUWNEH4VTFQ",
       "store_name": "Wayfair",
       "title": "51% Off Green Spruce Artificial Christmas Tree w/ Lights"
     },
     {
-      "coupon_url": "http://click.e.retailmenot.com/?qs=69b156aa9c00cefd5fda670abdfee22087836686bef4a8eff1b6aa38290378651a7845b9b3af6a1e807d4d3801eb7e27b7834f7c673e0287",
+      "coupon_url": "https://www.retailmenot.com/landing5/amazon.com?utm_content=8963551&unit_id=LGO5J5PEWA7CKBYNUD4AAAAAAA&c=8963551",
+      "coupon_uuid": "LDYRKKRWPNGNVOGEMA3A3HUYPU",
       "display_type": "text_link",
       "store_name": "Amazon",
-      "title": "Up to 50% Off Today's Top Deals"
+      "title": "Up to 50% Off Back to School Essentials"
     }
   ]
 }
