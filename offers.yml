@@ -1,4 +1,4 @@
-offers:
+diverse:
 -
   coupon_url: https://www.retailmenot.com/landing5/hotels.com?utm_content=9057447&unit_id=LGO5J4XEWA7CKBYNUD3QAAAAAA&c=9057447
   coupon_uuid: ALCU4OY2DBBVTCX7TGKUMYJC34
@@ -46,3 +46,16 @@ offers:
   display_type: text_link
   store_name: Amazon
   title: Up to 50% Off Back to School Essentials
+
+solo:
+-
+  coupon_url: https://www.retailmenot.com/landing5/walgreens.com?utm_content=10551724&unit_id=LQHJJ3PEWDTLX6VRY3ZAAAAAAA&c=10551724
+  coupon_uuid: U52GMIQ6VBBD5L3LDXMAI2DS6I
+  display_type: featured
+  expiration_date: Ends Dec 15
+  lifestyle_image: https://mediaservice.rmn.com/image/BLZ2PTB6PRCOHJP5XYOE
+  offer_button_label: Show Code
+  offer_type_label: Code
+  store_image: http://o.emailcdn.com/thumbs/logos/l/walgreens.com-coupons.jpg
+  store_name: Walgreens
+  title: 50% Off Photos Sitewide
