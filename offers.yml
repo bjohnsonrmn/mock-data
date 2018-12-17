@@ -37,11 +37,6 @@ diverse:
   product_image: https://mediaservice.retailmenot.com/image/IAP4GKKASZGHXAPQUWNEH4VTFQ
   store_name: Wayfair
   title: 51% Off Green Spruce Artificial Christmas Tree w/ Lights
-- coupon_url: https://www.retailmenot.com/landing5/amazon.com?utm_content=8963551&unit_id=LGO5J5PEWA7CKBYNUD4AAAAAAA&c=8963551
-  coupon_uuid: LDYRKKRWPNGNVOGEMA3A3HUYPU
-  display_type: text_link
-  store_name: Amazon
-  title: Up to 50% Off Back to School Essentials
 solo:
 - coupon_url: https://www.retailmenot.com/landing5/walgreens.com?utm_content=10551724&unit_id=LQHJJ3PEWDTLX6VRY3ZAAAAAAA&c=10551724
   coupon_uuid: U52GMIQ6VBBD5L3LDXMAI2DS6I
