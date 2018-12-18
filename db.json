@@ -120,61 +120,6 @@
       "lifestyle_image": "https://mediaservice.rmn.com/image/NZLD6SQ4YRCJDCPZBYX2LANBDA"
     },
     {
-      "display_type": "lifestyle_image",
-      "coupon_url": "https://www.retailmenot.com/landing5/flyfrontier.com?utm_content=10588130&unit_id=LQHMFQPEWD27FDPUD6OQAAAAAA&c=10588130",
-      "store_name": "Frontier Airlines",
-      "title": "One-Way Fares As Low As $20",
-      "offer_button_label": "Get Deal",
-      "coupon_uuid": "IFSLCL2STNCW5II4D2NJWZLMLY",
-      "expiration_date": "Ends December 12",
-      "offer_type_label": "Sale",
-      "lifestyle_image": "https://mediaservice.rmn.com/image/KSK6DCJSIZET7DJH3OT3JMOUHA"
-    },
-    {
-      "display_type": "lifestyle_image",
-      "coupon_url": "https://www.retailmenot.com/landing5/amazon.com?utm_content=10549768&unit_id=LQHMFJPEWDTLX6VRY37AAAAAAA&c=10549768",
-      "store_name": "Amazon",
-      "title": "12 Days of Deals! Up to 75% Off Electronics & More",
-      "offer_button_label": "Get Deal",
-      "coupon_uuid": "M7QNI7RQERD3RI6TWMRPO43QMY",
-      "expiration_date": "Ends today",
-      "offer_type_label": "Sale",
-      "lifestyle_image": "https://mediaservice.rmn.com/image/XTX5OJYGANAIDMSCJDVDNNKDW4"
-    },
-    {
-      "display_type": "lifestyle_image",
-      "coupon_url": "https://www.retailmenot.com/landing5/krispykreme.com?utm_content=10565114&unit_id=LQHMFLPEWD27FDPUD6MAAAAAAA&c=10565114",
-      "store_name": "Krispy Kreme",
-      "title": "Tomorrow Only! $1 Glazed Dozen With Purchase of Any Dozen",
-      "offer_button_label": "Get Deal",
-      "coupon_uuid": "OVU44MDGIRAA7ATVWQ4BCV2F74",
-      "expiration_date": "Ends December 12",
-      "offer_type_label": "Sale",
-      "lifestyle_image": "https://mediaservice.rmn.com/image/H2BROG47YZCLLBZ67UUZ56E77M"
-    },
-    {
-      "display_type": "lifestyle_image",
-      "coupon_url": "https://www.retailmenot.com/landing5/costco.com?utm_content=10549785&unit_id=LQHMFPPEWDTLX6VRY4CQAAAAAA&c=10549785",
-      "store_name": "Costco",
-      "title": "Last Day of 12 Days of Deals!",
-      "offer_button_label": "Get Deal",
-      "coupon_uuid": "XQTQEQXQZNGAXP42SPTR2XF2BQ",
-      "expiration_date": "Ends December 11",
-      "offer_type_label": "Sale",
-      "lifestyle_image": "https://mediaservice.rmn.com/image/RKQHVUYAPFBBLBK4BAJJBQ2PHY"
-    },
-    {
-      "display_type": "store_image",
-      "coupon_url": "https://instore.thread.co/retailmenot/officedepot.com/offer/2OATN7ANAZAPDIAKCE7CNH4N6M?utm_content=10568793&unit_id=LQHMFP7EWD27FDPUD6OAAAAAAA",
-      "store_name": "Office Depot & OfficeMax",
-      "title": "Up to 50% Off Weekly Ad Items! Laptops, Accessories, Printers & More",
-      "offer_button_label": "See Sale",
-      "coupon_uuid": "2OATN7ANAZAPDIAKCE7CNH4N6M",
-      "expiration_date": "Ends tomorrow",
-      "offer_type_label": "In-Store Sale",
-      "store_image": "http://o.emailcdn.com/thumbs/logos/l/officedepot.com-coupons.jpg"
-    },
-    {
       "display_type": "store_image",
       "coupon_url": "https://www.retailmenot.com/landing5/att.com?utm_content=10462759&unit_id=LQHJGCPEWD27FDPUD5XQAAAAAA&c=10462759",
       "store_name": "AT&T Wireless",
