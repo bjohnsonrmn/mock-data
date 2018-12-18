@@ -48,6 +48,17 @@ solo:
   store_image: http://o.emailcdn.com/thumbs/logos/l/walgreens.com-coupons.jpg
   store_name: Walgreens
   title: 50% Off Photos Sitewide
+mmm:
+- coupon_url: https://www.retailmenot.com/cashback/2/10592907?utm_content=10592907&unit_id=LQIU4EPEWDTLX6VRY6CQAAAAAA
+  coupon_uuid: ENIEBP5JPZHRNGOGGHKOZP5YNI
+  display_type: featured
+  expiration_date: Ends today
+  lifestyle_image: https://mediaservice.rmn.com/image/7KILDYLF7FGGTJPCVWIX4ZBBHU
+  offer_button_label: Get Cash Back
+  offer_type_label: Online Cash Back
+  store_image: http://o.emailcdn.com/thumbs/logos/l/amazon.com-coupons.jpg
+  store_name: Amazon
+  title: $15 Cash Back on $30 for Select Fashion Purchases at Amazon
 collections:
 - display_type: product
   coupon_url: https://www.retailmenot.com/ideas/greatdeals?featured=37439&utm_content=37439&unit_id=LQICXGPEWD27FDPUD74QAAAAAA
