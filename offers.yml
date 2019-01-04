@@ -1,4 +1,30 @@
 ---
+solo-multi:
+- coupon_url: https://instore.thread.co/retailmenot/bananarepublicfactory.gapfactory.com/offer/RB6DZD5RVNH35LGWJOCV4KNAOQ
+  coupon_uuid: RB6DZD5RVNH35LGWJOCV4KNAOQ
+  display_type: featured
+  lifestyle_image: https://mediaservice.rmn.com/image/MZPJ4XRUABEOTFFAGLOXVYOBKA
+  offer_button_label: Get Deal
+  offer_type_label: Online & In-Store
+  store_image: http://o.emailcdn.com/thumbs/logos/l/bananarepublicfactory.gapfactory.com-coupons.jpg
+  store_name: Banana Republic Factory
+  title: 'Winter Clearance Event: Up to 70% Off Original Prices + Extra 15% Off'
+- coupon_url: https://instore.thread.co/retailmenot/
+  coupon_uuid: GU552OXB45GKDEJLBQFH3J76TA
+  display_type: lifestyle_image
+  lifestyle_image: https://mediaservice.rmn.com/image/V3HVYPGNCND4ZKZUUBT2VYBGLE
+  offer_button_label: Get Deal
+  offer_type_label: Online & In-Store
+  store_name: Gap Factory
+  title: Almost Everything 50% - 75% Off + 15% Off Your Purchase
+- coupon_url: https://instore.thread.co/retailmenot/
+  coupon_uuid: MTUZBRPT6FAZXGS7INXIH7Y5TM
+  display_type: lifestyle_image
+  lifestyle_image: https://mediaservice.rmn.com/image/GCTH4S6VMVEN7DL2WG36JSXIYY
+  offer_button_label: See Sale
+  offer_type_label: In-Store Sale
+  store_name: Old Navy Outlet
+  title: Up to 75% Off Entire Store + Gifts From $3 / $4 / $5
 diverse:
 - coupon_url: https://www.retailmenot.com/landing5/hotels.com?utm_content=9057447&unit_id=LGO5J4XEWA7CKBYNUD3QAAAAAA&c=9057447
   coupon_uuid: ALCU4OY2DBBVTCX7TGKUMYJC34
