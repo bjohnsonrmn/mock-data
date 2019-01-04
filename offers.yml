@@ -9,7 +9,7 @@ solo-multi:
   store_image: http://o.emailcdn.com/thumbs/logos/l/bananarepublicfactory.gapfactory.com-coupons.jpg
   store_name: Banana Republic Factory
   title: 'Winter Clearance Event: Up to 70% Off Original Prices + Extra 15% Off'
-- coupon_url: https://instore.thread.co/retailmenot/
+- coupon_url: https://instore.thread.co/retailmenot/gapfactory.com/offer/MTUZBRPT6FAZXGS7INXIH7Y5TM
   coupon_uuid: GU552OXB45GKDEJLBQFH3J76TA
   display_type: lifestyle_image
   lifestyle_image: https://mediaservice.rmn.com/image/V3HVYPGNCND4ZKZUUBT2VYBGLE
@@ -17,7 +17,7 @@ solo-multi:
   offer_type_label: Online & In-Store
   store_name: Gap Factory
   title: Almost Everything 50% - 75% Off + 15% Off Your Purchase
-- coupon_url: https://instore.thread.co/retailmenot/
+- coupon_url: https://instore.thread.co/retailmenot/outlet.oldnavy.com/offer/MTUZBRPT6FAZXGS7INXIH7Y5TM
   coupon_uuid: MTUZBRPT6FAZXGS7INXIH7Y5TM
   display_type: lifestyle_image
   lifestyle_image: https://mediaservice.rmn.com/image/GCTH4S6VMVEN7DL2WG36JSXIYY
