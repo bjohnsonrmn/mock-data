@@ -1,117 +1,121 @@
 ---
 diverse:
-- coupon_url: https://www.retailmenot.com/landing5/hotels.com?utm_content=9057447&unit_id=LGO5J4XEWA7CKBYNUD3QAAAAAA&c=9057447
-  coupon_uuid: ALCU4OY2DBBVTCX7TGKUMYJC34
-  display_type: featured
-  lifestyle_image: https://mediaservice.rmn.com/image/HAGGYMWHGBA4ZOE66TMIVIJDIY
-  offer_button_label: Show Code
-  offer_type_label: Code
-  store_image: http://o.emailcdn.com/thumbs/logos/l/hotels.com-coupons.jpg
-  store_name: Hotels.com
-  title: Up to 50% Off Your Bookings + Extra 10% Off
-- coupon_url: https://www.retailmenot.com/landing5/southwest.com?utm_content=9063965&unit_id=LGO5U77EWA7CKBYNUD6AAAAAAA&c=9063965
-  coupon_uuid: CXF3B2F7PJGCZKZ7C4ZQQY6DC4
-  display_type: lifestyle_image
-  lifestyle_image: https://mediaservice.rmn.com/image/NZLD6SQ4YRCJDCPZBYX2LANBDA
-  offer_button_label: Get Deal
-  offer_type_label: Sale
-  store_name: Southwest
-  title: Fares From $49 One Way
-- coupon_url: https://www.retailmenot.com/landing5/dickssportinggoods.com?utm_content=9060899&unit_id=&c=9060899
-  coupon_uuid: DOUYMF5TFZERHAU7LSXZJBTKNA
-  display_type: store_image
-  offer_button_label: Get Deal
-  offer_type_label: Sale
-  store_image: http://o.emailcdn.com/thumbs/logos/l/dickssportinggoods.com-coupons.jpg
-  store_name: Dicks Sporting Goods
-  title: Up to 50% Off Select Soccer Gear
-- coupon_url: https://www.retailmenot.com/ideas/greatdeals?featured=37391&utm_content=37391&unit_id=LQAAUGPEWD27FDPUDRNAAAAAAA
-  display_type: product
-  final_price: "$59.35"
-  offer_button_label: Shop Now
-  original_price: "$119.99"
-  product_id: 37391
-  product_image: https://mediaservice.retailmenot.com/image/IAP4GKKASZGHXAPQUWNEH4VTFQ
-  store_name: Wayfair
-  title: 51% Off Green Spruce Artificial Christmas Tree w/ Lights
+  campaignUuid: 'collections-test-3'
+  offerList:
+  - coupon_url: https://www.retailmenot.com/landing5/hotels.com?utm_content=9057447&unit_id=LGO5J4XEWA7CKBYNUD3QAAAAAA&c=9057447
+    coupon_uuid: ALCU4OY2DBBVTCX7TGKUMYJC34
+    display_type: featured
+    lifestyle_image: https://mediaservice.rmn.com/image/HAGGYMWHGBA4ZOE66TMIVIJDIY
+    offer_button_label: Show Code
+    offer_type_label: Code
+    store_image: http://o.emailcdn.com/thumbs/logos/l/hotels.com-coupons.jpg
+    store_name: Hotels.com
+    title: Up to 50% Off Your Bookings + Extra 10% Off
+  - coupon_url: https://www.retailmenot.com/landing5/southwest.com?utm_content=9063965&unit_id=LGO5U77EWA7CKBYNUD6AAAAAAA&c=9063965
+    coupon_uuid: CXF3B2F7PJGCZKZ7C4ZQQY6DC4
+    display_type: lifestyle_image
+    lifestyle_image: https://mediaservice.rmn.com/image/NZLD6SQ4YRCJDCPZBYX2LANBDA
+    offer_button_label: Get Deal
+    offer_type_label: Sale
+    store_name: Southwest
+    title: Fares From $49 One Way
+  - coupon_url: https://www.retailmenot.com/landing5/dickssportinggoods.com?utm_content=9060899&unit_id=&c=9060899
+    coupon_uuid: DOUYMF5TFZERHAU7LSXZJBTKNA
+    display_type: store_image
+    offer_button_label: Get Deal
+    offer_type_label: Sale
+    store_image: http://o.emailcdn.com/thumbs/logos/l/dickssportinggoods.com-coupons.jpg
+    store_name: Dicks Sporting Goods
+    title: Up to 50% Off Select Soccer Gear
+  - coupon_url: https://www.retailmenot.com/ideas/greatdeals?featured=37391&utm_content=37391&unit_id=LQAAUGPEWD27FDPUDRNAAAAAAA
+    display_type: product
+    final_price: "$59.35"
+    offer_button_label: Shop Now
+    original_price: "$119.99"
+    product_id: 37391
+    product_image: https://mediaservice.retailmenot.com/image/IAP4GKKASZGHXAPQUWNEH4VTFQ
+    store_name: Wayfair
+    title: 51% Off Green Spruce Artificial Christmas Tree w/ Lights
 collections-test-3:
-- display_type: store_image_pair_left
-  coupon_url: https://www.retailmenot.com/landing5/target.com?utm_content=10579858&unit_id=LQHMFN7EWDTLX6VRY4CAAAAAAA&c=10579858
-  store_name: Target
-  title: Up to $100 Off Top Tech Deals
-  offer_button_label: Get Deal
-  coupon_uuid: LOPYAUGPWBBEPMKF5XZDWOFG7I
-  offer_type_label: Sale
-  store_image: http://o.emailcdn.com/thumbs/logos/l/target.com-coupons.jpg
-- display_type: store_image_pair_right
-  coupon_url: https://www.retailmenot.com/landing5/bestbuy.com?utm_content=10560483&unit_id=LQHMFJ7EWDTLX6VRY37QAAAAAA&c=10560483
-  store_name: Best Buy
-  title: 20 Days of Deals! New Doorbusters Everyday
-  offer_button_label: Get Deal
-  coupon_uuid: I2WF3PN5JVGUVHVOYKDHRH5UCE
-  offer_type_label: Sale
-  store_image: http://o.emailcdn.com/thumbs/logos/l/bestbuy.com-coupons.jpg
-- display_type: store_image_pair_left
-  coupon_url: https://www.retailmenot.com/landing5/target.com?utm_content=10579858&unit_id=LQHMFN7EWDTLX6VRY4CAAAAAAA&c=10579858
-  store_name: Target
-  title: Up to $100 Off Top Tech Deals
-  offer_button_label: Get Deal
-  coupon_uuid: LOPYAUGPWBBEPMKF5XZDWOFG7I
-  offer_type_label: Sale
-  store_image: http://o.emailcdn.com/thumbs/logos/l/target.com-coupons.jpg
-- display_type: store_image_pair_right
-  coupon_url: https://www.retailmenot.com/landing5/bestbuy.com?utm_content=10560483&unit_id=LQHMFJ7EWDTLX6VRY37QAAAAAA&c=10560483
-  store_name: Best Buy
-  title: 20 Days of Deals! New Doorbusters Everyday
-  offer_button_label: Get Deal
-  coupon_uuid: I2WF3PN5JVGUVHVOYKDHRH5UCE
-  offer_type_label: Sale
-  store_image: http://o.emailcdn.com/thumbs/logos/l/bestbuy.com-coupons.jpg
-- display_type: store_image
-  coupon_url: https://www.retailmenot.com/landing5/att.com?utm_content=10462759&unit_id=LQHJGCPEWD27FDPUD5XQAAAAAA&c=10462759
-  store_name: AT&T Wireless
-  title: Get a Smartphone on AT&T w/ Next + $150 Cash Back
-  offer_button_label: Get Deal
-  coupon_uuid: CDDJTIYB2VBU5I5WDKNZPUQTXM
-  offer_type_label: Sale
-  store_image: http://o.emailcdn.com/thumbs/logos/l/att.com-coupons.jpg
-- display_type: store_image
-  coupon_url: https://www.retailmenot.com/landing5/att.com?utm_content=10462759&unit_id=LQHJGCPEWD27FDPUD5XQAAAAAA&c=10462759
-  store_name: AT&T Wireless
-  title: Get a Smartphone on AT&T w/ Next + $150 Cash Back
-  offer_button_label: Get Deal
-  coupon_uuid: CDDJTIYB2VBU5I5WDKNZPUQTXM
-  offer_type_label: Sale
-  store_image: http://o.emailcdn.com/thumbs/logos/l/att.com-coupons.jpg
-- display_type: lifestyle_image
-  coupon_url: https://www.southwest.com/html/promotions/click_n_save_sale_181204_offers.html?clk=2387032&utm_content=10588458&unit_id=LQHMFIXEWD27FDPUD6KQAAAAAA
-  store_name: Southwest
-  title: 'Fares Starting at $49 '
-  offer_button_label: Get Deal
-  coupon_uuid: ITCIQNQLZVFTBBYH7NWN2WDRA4
-  offer_type_label: Sale
-  lifestyle_image: https://mediaservice.rmn.com/image/NZLD6SQ4YRCJDCPZBYX2LANBDA
-- display_type: store_image_pair_left
-  coupon_url: https://www.retailmenot.com/landing5/target.com?utm_content=10579858&unit_id=LQHMFN7EWDTLX6VRY4CAAAAAAA&c=10579858
-  store_name: Target
-  title: Up to $100 Off Top Tech Deals
-  offer_button_label: Get Deal
-  coupon_uuid: LOPYAUGPWBBEPMKF5XZDWOFG7I
-  offer_type_label: Sale
-  store_image: http://o.emailcdn.com/thumbs/logos/l/target.com-coupons.jpg
-- display_type: store_image_pair_right
-  coupon_url: https://www.retailmenot.com/landing5/bestbuy.com?utm_content=10560483&unit_id=LQHMFJ7EWDTLX6VRY37QAAAAAA&c=10560483
-  store_name: Best Buy
-  title: 20 Days of Deals! New Doorbusters Everyday
-  offer_button_label: Get Deal
-  coupon_uuid: I2WF3PN5JVGUVHVOYKDHRH5UCE
-  offer_type_label: Sale
-  store_image: http://o.emailcdn.com/thumbs/logos/l/bestbuy.com-coupons.jpg
-- display_type: store_image
-  coupon_url: https://www.retailmenot.com/landing5/att.com?utm_content=10462759&unit_id=LQHJGCPEWD27FDPUD5XQAAAAAA&c=10462759
-  store_name: AT&T Wireless
-  title: Get a Smartphone on AT&T w/ Next + $150 Cash Back
-  offer_button_label: Get Deal
-  coupon_uuid: CDDJTIYB2VBU5I5WDKNZPUQTXM
-  offer_type_label: Sale
-  store_image: http://o.emailcdn.com/thumbs/logos/l/att.com-coupons.jpg
+  campaignUuid: 'collections-test-3'
+  offerList:
+  - display_type: store_image_pair_left
+    coupon_url: https://www.retailmenot.com/landing5/target.com?utm_content=10579858&unit_id=LQHMFN7EWDTLX6VRY4CAAAAAAA&c=10579858
+    store_name: Target
+    title: Up to $100 Off Top Tech Deals
+    offer_button_label: Get Deal
+    coupon_uuid: LOPYAUGPWBBEPMKF5XZDWOFG7I
+    offer_type_label: Sale
+    store_image: http://o.emailcdn.com/thumbs/logos/l/target.com-coupons.jpg
+  - display_type: store_image_pair_right
+    coupon_url: https://www.retailmenot.com/landing5/bestbuy.com?utm_content=10560483&unit_id=LQHMFJ7EWDTLX6VRY37QAAAAAA&c=10560483
+    store_name: Best Buy
+    title: 20 Days of Deals! New Doorbusters Everyday
+    offer_button_label: Get Deal
+    coupon_uuid: I2WF3PN5JVGUVHVOYKDHRH5UCE
+    offer_type_label: Sale
+    store_image: http://o.emailcdn.com/thumbs/logos/l/bestbuy.com-coupons.jpg
+  - display_type: store_image_pair_left
+    coupon_url: https://www.retailmenot.com/landing5/target.com?utm_content=10579858&unit_id=LQHMFN7EWDTLX6VRY4CAAAAAAA&c=10579858
+    store_name: Target
+    title: Up to $100 Off Top Tech Deals
+    offer_button_label: Get Deal
+    coupon_uuid: LOPYAUGPWBBEPMKF5XZDWOFG7I
+    offer_type_label: Sale
+    store_image: http://o.emailcdn.com/thumbs/logos/l/target.com-coupons.jpg
+  - display_type: store_image_pair_right
+    coupon_url: https://www.retailmenot.com/landing5/bestbuy.com?utm_content=10560483&unit_id=LQHMFJ7EWDTLX6VRY37QAAAAAA&c=10560483
+    store_name: Best Buy
+    title: 20 Days of Deals! New Doorbusters Everyday
+    offer_button_label: Get Deal
+    coupon_uuid: I2WF3PN5JVGUVHVOYKDHRH5UCE
+    offer_type_label: Sale
+    store_image: http://o.emailcdn.com/thumbs/logos/l/bestbuy.com-coupons.jpg
+  - display_type: store_image
+    coupon_url: https://www.retailmenot.com/landing5/att.com?utm_content=10462759&unit_id=LQHJGCPEWD27FDPUD5XQAAAAAA&c=10462759
+    store_name: AT&T Wireless
+    title: Get a Smartphone on AT&T w/ Next + $150 Cash Back
+    offer_button_label: Get Deal
+    coupon_uuid: CDDJTIYB2VBU5I5WDKNZPUQTXM
+    offer_type_label: Sale
+    store_image: http://o.emailcdn.com/thumbs/logos/l/att.com-coupons.jpg
+  - display_type: store_image
+    coupon_url: https://www.retailmenot.com/landing5/att.com?utm_content=10462759&unit_id=LQHJGCPEWD27FDPUD5XQAAAAAA&c=10462759
+    store_name: AT&T Wireless
+    title: Get a Smartphone on AT&T w/ Next + $150 Cash Back
+    offer_button_label: Get Deal
+    coupon_uuid: CDDJTIYB2VBU5I5WDKNZPUQTXM
+    offer_type_label: Sale
+    store_image: http://o.emailcdn.com/thumbs/logos/l/att.com-coupons.jpg
+  - display_type: lifestyle_image
+    coupon_url: https://www.southwest.com/html/promotions/click_n_save_sale_181204_offers.html?clk=2387032&utm_content=10588458&unit_id=LQHMFIXEWD27FDPUD6KQAAAAAA
+    store_name: Southwest
+    title: 'Fares Starting at $49 '
+    offer_button_label: Get Deal
+    coupon_uuid: ITCIQNQLZVFTBBYH7NWN2WDRA4
+    offer_type_label: Sale
+    lifestyle_image: https://mediaservice.rmn.com/image/NZLD6SQ4YRCJDCPZBYX2LANBDA
+  - display_type: store_image_pair_left
+    coupon_url: https://www.retailmenot.com/landing5/target.com?utm_content=10579858&unit_id=LQHMFN7EWDTLX6VRY4CAAAAAAA&c=10579858
+    store_name: Target
+    title: Up to $100 Off Top Tech Deals
+    offer_button_label: Get Deal
+    coupon_uuid: LOPYAUGPWBBEPMKF5XZDWOFG7I
+    offer_type_label: Sale
+    store_image: http://o.emailcdn.com/thumbs/logos/l/target.com-coupons.jpg
+  - display_type: store_image_pair_right
+    coupon_url: https://www.retailmenot.com/landing5/bestbuy.com?utm_content=10560483&unit_id=LQHMFJ7EWDTLX6VRY37QAAAAAA&c=10560483
+    store_name: Best Buy
+    title: 20 Days of Deals! New Doorbusters Everyday
+    offer_button_label: Get Deal
+    coupon_uuid: I2WF3PN5JVGUVHVOYKDHRH5UCE
+    offer_type_label: Sale
+    store_image: http://o.emailcdn.com/thumbs/logos/l/bestbuy.com-coupons.jpg
+  - display_type: store_image
+    coupon_url: https://www.retailmenot.com/landing5/att.com?utm_content=10462759&unit_id=LQHJGCPEWD27FDPUD5XQAAAAAA&c=10462759
+    store_name: AT&T Wireless
+    title: Get a Smartphone on AT&T w/ Next + $150 Cash Back
+    offer_button_label: Get Deal
+    coupon_uuid: CDDJTIYB2VBU5I5WDKNZPUQTXM
+    offer_type_label: Sale
+    store_image: http://o.emailcdn.com/thumbs/logos/l/att.com-coupons.jpg
