@@ -1,6 +1,6 @@
 {
   "diverse": {
-    "campaignUuid": "collections-test-3",
+    "campaignUuid": "diverse",
     "offerList": [
       {
         "coupon_url": "https://www.retailmenot.com/landing5/hotels.com?utm_content=9057447&unit_id=LGO5J4XEWA7CKBYNUD3QAAAAAA&c=9057447",
@@ -117,7 +117,8 @@
         "offer_button_label": "Get Deal",
         "coupon_uuid": "ITCIQNQLZVFTBBYH7NWN2WDRA4",
         "offer_type_label": "Sale",
-        "lifestyle_image": "https://mediaservice.rmn.com/image/NZLD6SQ4YRCJDCPZBYX2LANBDA"
+        "lifestyle_image": "https://mediaservice.rmn.com/image/NZLD6SQ4YRCJDCPZBYX2LANBDA",
+        "store_image": "http://o.emailcdn.com/thumbs/logos/l/southwest.com-coupons.jpg"
       },
       {
         "display_type": "store_image_pair_left",
