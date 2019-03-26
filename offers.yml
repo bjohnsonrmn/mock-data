@@ -1,30 +1,4 @@
 ---
-solo-multi:
-- coupon_url: https://instore.thread.co/retailmenot/bananarepublicfactory.gapfactory.com/offer/RB6DZD5RVNH35LGWJOCV4KNAOQ?foo=bar
-  coupon_uuid: RB6DZD5RVNH35LGWJOCV4KNAOQ
-  display_type: featured
-  lifestyle_image: https://mediaservice.rmn.com/image/MZPJ4XRUABEOTFFAGLOXVYOBKA
-  offer_button_label: Get Deal
-  offer_type_label: Online & In-Store
-  store_image: http://o.emailcdn.com/thumbs/logos/l/bananarepublicfactory.gapfactory.com-coupons.jpg
-  store_name: Banana Republic Factory
-  title: 'Winter Clearance Event: Up to 70% Off Original Prices + Extra 15% Off'
-- coupon_url: https://instore.thread.co/retailmenot/gapfactory.com/offer/GU552OXB45GKDEJLBQFH3J76TA?foo=bar
-  coupon_uuid: GU552OXB45GKDEJLBQFH3J76TA
-  display_type: lifestyle_image
-  lifestyle_image: https://mediaservice.rmn.com/image/V3HVYPGNCND4ZKZUUBT2VYBGLE
-  offer_button_label: Get Deal
-  offer_type_label: Online & In-Store
-  store_name: Gap Factory
-  title: Almost Everything 50% - 75% Off + 15% Off Your Purchase
-- coupon_url: https://instore.thread.co/retailmenot/outlet.oldnavy.com/offer/MTUZBRPT6FAZXGS7INXIH7Y5TM?foo=bar
-  coupon_uuid: MTUZBRPT6FAZXGS7INXIH7Y5TM
-  display_type: lifestyle_image
-  lifestyle_image: https://mediaservice.rmn.com/image/GCTH4S6VMVEN7DL2WG36JSXIYY
-  offer_button_label: See Sale
-  offer_type_label: In-Store Sale
-  store_name: Old Navy Outlet
-  title: Up to 75% Off Entire Store + Gifts From $3 / $4 / $5
 diverse:
 - coupon_url: https://www.retailmenot.com/landing5/hotels.com?utm_content=9057447&unit_id=LGO5J4XEWA7CKBYNUD3QAAAAAA&c=9057447
   coupon_uuid: ALCU4OY2DBBVTCX7TGKUMYJC34
@@ -60,37 +34,8 @@ diverse:
   product_image: https://mediaservice.retailmenot.com/image/IAP4GKKASZGHXAPQUWNEH4VTFQ
   store_name: Wayfair
   title: 51% Off Green Spruce Artificial Christmas Tree w/ Lights
-solo:
-- coupon_url: https://www.retailmenot.com/landing5/walgreens.com?utm_content=10551724&unit_id=LQHJJ3PEWDTLX6VRY3ZAAAAAAA&c=10551724
-  coupon_uuid: U52GMIQ6VBBD5L3LDXMAI2DS6I
-  display_type: featured
-  lifestyle_image: https://mediaservice.rmn.com/image/BLZ2PTB6PRCOHJP5XYOEUVIV2E
-  offer_button_label: Show Code
-  offer_type_label: Code
-  store_image: http://o.emailcdn.com/thumbs/logos/l/walgreens.com-coupons.jpg
-  store_name: Walgreens
-  title: 50% Off Photos Sitewide
-mmm:
-- coupon_url: https://www.retailmenot.com/cashback/2/10592907?utm_content=10592907&unit_id=LQIU4EPEWDTLX6VRY6CQAAAAAA
-  coupon_uuid: ENIEBP5JPZHRNGOGGHKOZP5YNI
-  display_type: featured
-  lifestyle_image: https://mediaservice.rmn.com/image/7KILDYLF7FGGTJPCVWIX4ZBBHU
-  offer_button_label: Get Cash Back
-  offer_type_label: Online Cash Back
-  store_image: http://o.emailcdn.com/thumbs/logos/l/amazon.com-coupons.jpg
-  store_name: Amazon
-  title: $15 Cash Back on $30 for Select Fashion Purchases at Amazon
-collections:
-- display_type: product
-  coupon_url: https://www.retailmenot.com/ideas/greatdeals?featured=37439&utm_content=37439&unit_id=LQICXGPEWD27FDPUD74QAAAAAA
-  store_name: RetailMeNot
-  title: Up to 81% Off Apple Watch Sale!
-  offer_button_label: Shop Now
-  product_id: '37439'
-  product_image: https://mediaservice.retailmenot.com/image/3S4E5HZBZ5ETTC43BH3DJGHMPY
-  final_price: ''
-  original_price: ''
-- display_type: store_image
+collections-test-3:
+- display_type: store_image_pair_left
   coupon_url: https://www.retailmenot.com/landing5/target.com?utm_content=10579858&unit_id=LQHMFN7EWDTLX6VRY4CAAAAAAA&c=10579858
   store_name: Target
   title: Up to $100 Off Top Tech Deals
@@ -98,14 +43,46 @@ collections:
   coupon_uuid: LOPYAUGPWBBEPMKF5XZDWOFG7I
   offer_type_label: Sale
   store_image: http://o.emailcdn.com/thumbs/logos/l/target.com-coupons.jpg
-- display_type: lifestyle_image
+- display_type: store_image_pair_right
   coupon_url: https://www.retailmenot.com/landing5/bestbuy.com?utm_content=10560483&unit_id=LQHMFJ7EWDTLX6VRY37QAAAAAA&c=10560483
   store_name: Best Buy
   title: 20 Days of Deals! New Doorbusters Everyday
   offer_button_label: Get Deal
   coupon_uuid: I2WF3PN5JVGUVHVOYKDHRH5UCE
   offer_type_label: Sale
-  lifestyle_image: https://mediaservice.rmn.com/image/X56YRHWWZ5E7FI53L7MXDLYFD4
+  store_image: http://o.emailcdn.com/thumbs/logos/l/bestbuy.com-coupons.jpg
+- display_type: store_image_pair_left
+  coupon_url: https://www.retailmenot.com/landing5/target.com?utm_content=10579858&unit_id=LQHMFN7EWDTLX6VRY4CAAAAAAA&c=10579858
+  store_name: Target
+  title: Up to $100 Off Top Tech Deals
+  offer_button_label: Get Deal
+  coupon_uuid: LOPYAUGPWBBEPMKF5XZDWOFG7I
+  offer_type_label: Sale
+  store_image: http://o.emailcdn.com/thumbs/logos/l/target.com-coupons.jpg
+- display_type: store_image_pair_right
+  coupon_url: https://www.retailmenot.com/landing5/bestbuy.com?utm_content=10560483&unit_id=LQHMFJ7EWDTLX6VRY37QAAAAAA&c=10560483
+  store_name: Best Buy
+  title: 20 Days of Deals! New Doorbusters Everyday
+  offer_button_label: Get Deal
+  coupon_uuid: I2WF3PN5JVGUVHVOYKDHRH5UCE
+  offer_type_label: Sale
+  store_image: http://o.emailcdn.com/thumbs/logos/l/bestbuy.com-coupons.jpg
+- display_type: store_image
+  coupon_url: https://www.retailmenot.com/landing5/att.com?utm_content=10462759&unit_id=LQHJGCPEWD27FDPUD5XQAAAAAA&c=10462759
+  store_name: AT&T Wireless
+  title: Get a Smartphone on AT&T w/ Next + $150 Cash Back
+  offer_button_label: Get Deal
+  coupon_uuid: CDDJTIYB2VBU5I5WDKNZPUQTXM
+  offer_type_label: Sale
+  store_image: http://o.emailcdn.com/thumbs/logos/l/att.com-coupons.jpg
+- display_type: store_image
+  coupon_url: https://www.retailmenot.com/landing5/att.com?utm_content=10462759&unit_id=LQHJGCPEWD27FDPUD5XQAAAAAA&c=10462759
+  store_name: AT&T Wireless
+  title: Get a Smartphone on AT&T w/ Next + $150 Cash Back
+  offer_button_label: Get Deal
+  coupon_uuid: CDDJTIYB2VBU5I5WDKNZPUQTXM
+  offer_type_label: Sale
+  store_image: http://o.emailcdn.com/thumbs/logos/l/att.com-coupons.jpg
 - display_type: lifestyle_image
   coupon_url: https://www.southwest.com/html/promotions/click_n_save_sale_181204_offers.html?clk=2387032&utm_content=10588458&unit_id=LQHMFIXEWD27FDPUD6KQAAAAAA
   store_name: Southwest
@@ -114,6 +91,22 @@ collections:
   coupon_uuid: ITCIQNQLZVFTBBYH7NWN2WDRA4
   offer_type_label: Sale
   lifestyle_image: https://mediaservice.rmn.com/image/NZLD6SQ4YRCJDCPZBYX2LANBDA
+- display_type: store_image_pair_left
+  coupon_url: https://www.retailmenot.com/landing5/target.com?utm_content=10579858&unit_id=LQHMFN7EWDTLX6VRY4CAAAAAAA&c=10579858
+  store_name: Target
+  title: Up to $100 Off Top Tech Deals
+  offer_button_label: Get Deal
+  coupon_uuid: LOPYAUGPWBBEPMKF5XZDWOFG7I
+  offer_type_label: Sale
+  store_image: http://o.emailcdn.com/thumbs/logos/l/target.com-coupons.jpg
+- display_type: store_image_pair_right
+  coupon_url: https://www.retailmenot.com/landing5/bestbuy.com?utm_content=10560483&unit_id=LQHMFJ7EWDTLX6VRY37QAAAAAA&c=10560483
+  store_name: Best Buy
+  title: 20 Days of Deals! New Doorbusters Everyday
+  offer_button_label: Get Deal
+  coupon_uuid: I2WF3PN5JVGUVHVOYKDHRH5UCE
+  offer_type_label: Sale
+  store_image: http://o.emailcdn.com/thumbs/logos/l/bestbuy.com-coupons.jpg
 - display_type: store_image
   coupon_url: https://www.retailmenot.com/landing5/att.com?utm_content=10462759&unit_id=LQHJGCPEWD27FDPUD5XQAAAAAA&c=10462759
   store_name: AT&T Wireless
