@@ -1,9 +1,9 @@
 ---
 battleship:
-  campaignUuid: battleship
-  buckets:
+  campaign_uuid: battleship
+  bucket_list:
   - bucket_name: travel
-    offerList:
+    offer_list:
     - coupon_url: https://www.retailmenot.com/landing5/hotels.com?utm_content=9057447&unit_id=LGO5J4XEWA7CKBYNUD3QAAAAAA&c=9057447
       coupon_uuid: ALCU4OY2DBBVTCX7TGKUMYJC34
       display_type: featured
@@ -22,7 +22,7 @@ battleship:
       store_name: Southwest
       title: Fares From $49 One Way
   - bucket_name: beauty
-    offerList:
+    offer_list:
     - coupon_url: https://www.retailmenot.com/landing5/dickssportinggoods.com?utm_content=9060899&unit_id=&c=9060899
       coupon_uuid: DOUYMF5TFZERHAU7LSXZJBTKNA
       display_type: store_image
@@ -41,7 +41,7 @@ battleship:
       store_name: Wayfair
       title: 51% Off Green Spruce Artificial Christmas Tree w/ Lights
   - bucket_name: fashion
-    offerList:
+    offer_list:
     - display_type: store_image
       coupon_url: https://www.retailmenot.com/landing5/att.com?utm_content=10462759&unit_id=LQHJGCPEWD27FDPUD5XQAAAAAA&c=10462759
       store_name: AT&T Wireless
