@@ -1,9 +1,9 @@
 {
   "battleship": {
-    "campaign_uuid": "battleship",
+    "campaign_uuid": "battleship_campaign_uuid",
     "bucket_list": [
       {
-        "bucket_name": "travel",
+        "bucket_name": "featured",
         "offer_list": [
           {
             "coupon_url": "https://www.retailmenot.com/landing5/hotels.com?utm_content=9057447&unit_id=LGO5J4XEWA7CKBYNUD3QAAAAAA&c=9057447",
@@ -15,16 +15,6 @@
             "store_image": "http://o.emailcdn.com/thumbs/logos/l/hotels.com-coupons.jpg",
             "store_name": "Hotels.com",
             "title": "Up to 50% Off Your Bookings + Extra 10% Off"
-          },
-          {
-            "coupon_url": "https://www.retailmenot.com/landing5/southwest.com?utm_content=9063965&unit_id=LGO5U77EWA7CKBYNUD6AAAAAAA&c=9063965",
-            "coupon_uuid": "CXF3B2F7PJGCZKZ7C4ZQQY6DC4",
-            "display_type": "lifestyle_image",
-            "lifestyle_image": "https://mediaservice.rmn.com/image/NZLD6SQ4YRCJDCPZBYX2LANBDA",
-            "offer_button_label": "Get Deal",
-            "offer_type_label": "Sale",
-            "store_name": "Southwest",
-            "title": "Fares From $49 One Way"
           }
         ]
       },
@@ -66,17 +56,6 @@
             "coupon_uuid": "CDDJTIYB2VBU5I5WDKNZPUQTXM",
             "offer_type_label": "Sale",
             "store_image": "http://o.emailcdn.com/thumbs/logos/l/att.com-coupons.jpg"
-          },
-          {
-            "coupon_url": "https://www.retailmenot.com/landing5/hotels.com?utm_content=9057447&unit_id=LGO5J4XEWA7CKBYNUD3QAAAAAA&c=9057447",
-            "coupon_uuid": "ALCU4OY2DBBVTCX7TGKUMYJC34",
-            "display_type": "featured",
-            "lifestyle_image": "https://mediaservice.rmn.com/image/HAGGYMWHGBA4ZOE66TMIVIJDIY",
-            "offer_button_label": "Show Code",
-            "offer_type_label": "Code",
-            "store_image": "http://o.emailcdn.com/thumbs/logos/l/hotels.com-coupons.jpg",
-            "store_name": "Hotels.com",
-            "title": "Up to 50% Off Your Bookings + Extra 10% Off"
           },
           {
             "coupon_url": "https://www.retailmenot.com/landing5/southwest.com?utm_content=9063965&unit_id=LGO5U77EWA7CKBYNUD6AAAAAAA&c=9063965",
