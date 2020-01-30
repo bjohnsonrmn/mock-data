@@ -1,64 +1,48 @@
 {
   "battleship": {
-  "campaign_uuid": "RV2OKYX36VAQ3HZXCOTECTRX2M",
+  "campaign_uuid": "6ZR3TJNJRBHYROM4HMOYG5HZEE",
   "bucket_list": [
     {
       "bucket_name": "Featured",
       "offer_list": [
         {
           "display_type": "featured",
-          "coupon_url": "https://ar.rmntest.com/v1.0/emailClick?campaignUuid=RV2OKYX36VAQ3HZXCOTECTRX2M&type=COUPON&redirectUrl=https%3A%2F%2Finstore.thread.co%2Fretailmenot%2Fbedbathandbeyond.com%2Foffer%2F7BMGVPJ7O5BFZEQJC6Z6AXCUIQ%3Futm_content%3D11908178%26unit_id%3DSRPJFJYHRBEMSMEXXPZQAAAAAA%26utm_medium%3Demail%26utm_campaign%3D2020-01-29%26ch%3Dnewsl%26utm_source%3Dnewsletter%26utm_term%3Dcontrol%26cus.ptp%3Dflagship%26campaignUuid%3DRV2OKYX36VAQ3HZXCOTECTRX2M",
-          "store_name": "Bed Bath & Beyond®",
-          "title": "20% Off One Item In-Store",
-          "offer_button_label": "Show Coupon",
-          "store_domain": "bedbathandbeyond.com",
-          "coupon_uuid": "7BMGVPJ7O5BFZEQJC6Z6AXCUIQ",
-          "offer_type_label": "In-Store Coupon",
-          "lifestyle_image": "https://mediaservice.rmn.com/image/BFKS4WJETZDENEZSV7GXOHWF2M",
-          "store_image": "http://o.emailcdn.com/thumbs/logos/l/bedbathandbeyond.com-coupons.jpg"
+          "coupon_url": "https://t.rmn.co/xet",
+          "store_name": "Verizon Wireless",
+          "title": "Online Only! Up to $300 Off With Trade In When You Upgrade",
+          "offer_button_label": "Get Deal",
+          "store_domain": "verizonwireless.com",
+          "coupon_uuid": "IGNB7FWLZZAANODHD33K27MW5U",
+          "offer_type_label": "Sale",
+          "lifestyle_image": "https://mediaservice.rmn.com/image/QFHVNYRJJVAAXPDBMB3SFVIQLI",
+          "store_image": "http://o.emailcdn.com/thumbs/logos/l/verizonwireless.com-coupons.jpg"
         }
       ]
     },
     {
-      "bucket_name": "Home & Garden",
+      "bucket_name": "Electronics",
       "offer_list": [
         {
           "display_type": "store_image",
-          "coupon_url": "https://ar.rmntest.com/v1.0/emailClick?campaignUuid=RV2OKYX36VAQ3HZXCOTECTRX2M&type=COUPON&redirectUrl=https%3A%2F%2Fo.retailmenot.com%2FJK2N2JODZ5HLFPM4UZQLN3EVQQ%3FpageName%3DRV2OKYX36VAQ3HZXCOTECTRX2M%26utm_medium%3Demail%26utm_campaign%3D2020-01-29%26ch%3Dnewsl%26utm_source%3Dnewsletter%26utm_term%3Dcontrol%26cus.ptp%3Dflagship%26campaignUuid%3DRV2OKYX36VAQ3HZXCOTECTRX2M",
-          "store_name": "Target",
-          "title": "Up to 25% Off Home + $10 Gift Card w/ $50 Grocery Spend",
+          "coupon_url": "https://t.rmn.co/s8O",
+          "store_name": "Lenovo",
+          "title": "Up to 65% Off Clearance Sale",
           "offer_button_label": "Get Deal",
-          "store_domain": "target.com",
-          "coupon_uuid": "JK2N2JODZ5HLFPM4UZQLN3EVQQ",
+          "store_domain": "lenovo.com",
+          "coupon_uuid": "XNVN2PPB7FHR3OB7QQHGBXYUZU",
           "offer_type_label": "Sale",
-          "store_image": "http://o.emailcdn.com/thumbs/logos/l/target.com-coupons.jpg"
+          "store_image": "http://o.emailcdn.com/thumbs/logos/l/lenovo.com-coupons.jpg"
         },
         {
           "display_type": "store_image",
-          "coupon_url": "https://ar.rmntest.com/v1.0/emailClick?campaignUuid=RV2OKYX36VAQ3HZXCOTECTRX2M&type=COUPON&redirectUrl=https%3A%2F%2Fo.retailmenot.com%2F6BQNYWQH5NAULLSOO7JQPX4IKE%3FpageName%3DRV2OKYX36VAQ3HZXCOTECTRX2M%26utm_medium%3Demail%26utm_campaign%3D2020-01-29%26ch%3Dnewsl%26utm_source%3Dnewsletter%26utm_term%3Dcontrol%26cus.ptp%3Dflagship%26campaignUuid%3DRV2OKYX36VAQ3HZXCOTECTRX2M",
-          "store_name": "Horchow",
-          "title": "Up to 50% Off Hundreds of New Sale & Clearance Items",
+          "coupon_url": "https://t.rmn.co/JDd",
+          "store_name": "Walmart",
+          "title": "Up to 86% Off Electronics",
           "offer_button_label": "Get Deal",
-          "store_domain": "horchow.com",
-          "coupon_uuid": "6BQNYWQH5NAULLSOO7JQPX4IKE",
+          "store_domain": "walmart.com",
+          "coupon_uuid": "R4MB6RCJ4FAAHCRVH2SBDQYSJI",
           "offer_type_label": "Sale",
-          "store_image": "http://o.emailcdn.com/thumbs/logos/l/horchow.com-coupons.jpg"
-        }
-      ]
-    },
-    {
-      "bucket_name": "Food",
-      "offer_list": [
-        {
-          "display_type": "store_image",
-          "coupon_url": "https://ar.rmntest.com/v1.0/emailClick?campaignUuid=RV2OKYX36VAQ3HZXCOTECTRX2M&type=COUPON&redirectUrl=https%3A%2F%2Finstore.thread.co%2Fretailmenot%2Fschlotzskys.com%2Foffer%2FBPYT3JD2QNE2LB4TP5WXCQEHEE%3Futm_content%3D11788169%26unit_id%3DHGWSMPNAIVC63TIZLBRQAAAAAA%26utm_medium%3Demail%26utm_campaign%3D2020-01-29%26ch%3Dnewsl%26utm_source%3Dnewsletter%26utm_term%3Dcontrol%26cus.ptp%3Dflagship%26campaignUuid%3DRV2OKYX36VAQ3HZXCOTECTRX2M",
-          "store_name": "Schlotzsky's",
-          "title": "Free Chips and Small Drink With Purchase of Any Entree",
-          "offer_button_label": "Show Coupon",
-          "store_domain": "schlotzskys.com",
-          "coupon_uuid": "BPYT3JD2QNE2LB4TP5WXCQEHEE",
-          "offer_type_label": "In-Store Coupon",
-          "store_image": "http://o.emailcdn.com/thumbs/logos/l/schlotzskys.com-coupons.jpg"
+          "store_image": "http://o.emailcdn.com/thumbs/logos/l/walmart.com-coupons.jpg"
         }
       ]
     },
@@ -67,31 +51,53 @@
       "offer_list": [
         {
           "display_type": "store_image",
-          "coupon_url": "https://ar.rmntest.com/v1.0/emailClick?campaignUuid=RV2OKYX36VAQ3HZXCOTECTRX2M&type=COUPON&redirectUrl=https%3A%2F%2Fwww.retailmenot.com%2Flanding5%2Fbelk.com%3Futm_content%3D11967860%26unit_id%3DGMLLMCP2WBGMDIQWUDRAAAAAAA%26u%3DM4IYQQSRSRESZI3CV5MS6HO2E4%26c%3D11967860%26utm_medium%3Demail%26utm_campaign%3D2020-01-29%26ch%3Dnewsl%26utm_source%3Dnewsletter%26utm_term%3Dcontrol%26cus.ptp%3Dflagship%26campaignUuid%3DRV2OKYX36VAQ3HZXCOTECTRX2M",
-          "store_name": "Belk",
-          "title": "Up to 20% Off Your Order",
-          "offer_button_label": "Show Code",
-          "store_domain": "belk.com",
-          "coupon_uuid": "M4IYQQSRSRESZI3CV5MS6HO2E4",
-          "offer_type_label": "Code",
-          "store_image": "http://o.emailcdn.com/thumbs/logos/l/belk.com-coupons.jpg"
+          "coupon_url": "https://t.rmn.co/Tsf",
+          "store_name": "H&R Block Tax",
+          "title": "25% Off Online Products For a Limited Time",
+          "offer_button_label": "Get Deal",
+          "store_domain": "hrblock.com",
+          "coupon_uuid": "RRS2OYWXLZGHTPRK7UVVJJXD6E",
+          "offer_type_label": "Sale",
+          "store_image": "http://o.emailcdn.com/thumbs/logos/l/hrblock.com-coupons.jpg"
         },
         {
           "display_type": "store_image",
-          "coupon_url": "https://ar.rmntest.com/v1.0/emailClick?campaignUuid=RV2OKYX36VAQ3HZXCOTECTRX2M&type=COUPON&redirectUrl=https%3A%2F%2Fo.retailmenot.com%2FILOT6AD7KVGATA5JH45UJS3TMI%3FpageName%3DRV2OKYX36VAQ3HZXCOTECTRX2M%26utm_medium%3Demail%26utm_campaign%3D2020-01-29%26ch%3Dnewsl%26utm_source%3Dnewsletter%26utm_term%3Dcontrol%26cus.ptp%3Dflagship%26campaignUuid%3DRV2OKYX36VAQ3HZXCOTECTRX2M",
-          "store_name": "Best Buy",
-          "title": "24-Hour Flash Sale! Up to 50% Off",
+          "coupon_url": "https://t.rmn.co/ld2",
+          "store_name": "Sonic Drive-In",
+          "title": "Today Only! 50 Cent Corn Dogs All Day",
+          "offer_button_label": "See Sale",
+          "store_domain": "sonicdrivein.com",
+          "coupon_uuid": "7AB232VQGFBMTNVBP4YBUMOWOY",
+          "offer_type_label": "In-Store Sale",
+          "store_image": "http://o.emailcdn.com/thumbs/logos/l/sonicdrivein.com-coupons.jpg"
+        },
+        {
+          "display_type": "store_image",
+          "coupon_url": "https://t.rmn.co/IWZ",
+          "store_name": "Macy's",
+          "title": "Up to 80% Off Clearance Apparel, Shoes & More",
           "offer_button_label": "Get Deal",
-          "store_domain": "bestbuy.com",
-          "coupon_uuid": "ILOT6AD7KVGATA5JH45UJS3TMI",
+          "store_domain": "macys.com",
+          "coupon_uuid": "GLUS2SP3DNEURKSXRCXR55KTHA",
           "offer_type_label": "Sale",
-          "store_image": "http://o.emailcdn.com/thumbs/logos/l/bestbuy.com-coupons.jpg"
+          "store_image": "http://o.emailcdn.com/thumbs/logos/l/macys.com-coupons.jpg"
+        },
+        {
+          "display_type": "store_image",
+          "coupon_url": "https://t.rmn.co/kc3",
+          "store_name": "Amazon",
+          "title": "Up to 75% Off Amazon's Top Deals of The Day",
+          "offer_button_label": "Get Deal",
+          "store_domain": "amazon.com",
+          "coupon_uuid": "FISRXTYDTBBKXAAPNUYCOXBUT4",
+          "offer_type_label": "Sale",
+          "store_image": "http://o.emailcdn.com/thumbs/logos/l/amazon.com-coupons.jpg"
         },
         {
           "display_type": "lifestyle_image",
-          "coupon_url": "https://ar.rmntest.com/v1.0/emailClick?campaignUuid=RV2OKYX36VAQ3HZXCOTECTRX2M&type=COUPON&redirectUrl=https%3A%2F%2Fo.retailmenot.com%2F6OBZONAWIFCPXBRYKBJBJLLFWA%3FpageName%3DRV2OKYX36VAQ3HZXCOTECTRX2M%26utm_medium%3Demail%26utm_campaign%3D2020-01-29%26ch%3Dnewsl%26utm_source%3Dnewsletter%26utm_term%3Dcontrol%26cus.ptp%3Dflagship%26campaignUuid%3DRV2OKYX36VAQ3HZXCOTECTRX2M",
+          "coupon_url": "https://t.rmn.co/9ZF",
           "store_name": "Chick-fil-A",
-          "title": "Ends Friday! Free 8 Count Nuggets Via Mobile App",
+          "title": "Ends Tomorrow! Free 8 Count Nuggets Via Mobile App",
           "offer_button_label": "Get Deal",
           "store_domain": "chick-fil-a.com",
           "coupon_uuid": "6OBZONAWIFCPXBRYKBJBJLLFWA",
@@ -100,42 +106,65 @@
           "store_image": "http://o.emailcdn.com/thumbs/logos/l/chick-fil-a.com-coupons.jpg"
         },
         {
-          "display_type": "store_image",
-          "coupon_url": "https://ar.rmntest.com/v1.0/emailClick?campaignUuid=RV2OKYX36VAQ3HZXCOTECTRX2M&type=COUPON&redirectUrl=https%3A%2F%2Fo.retailmenot.com%2FBIPO7VKNAZGFVBAPJJSP224PPY%3FpageName%3DRV2OKYX36VAQ3HZXCOTECTRX2M%26utm_medium%3Demail%26utm_campaign%3D2020-01-29%26ch%3Dnewsl%26utm_source%3Dnewsletter%26utm_term%3Dcontrol%26cus.ptp%3Dflagship%26campaignUuid%3DRV2OKYX36VAQ3HZXCOTECTRX2M",
-          "store_name": "Nordstrom Rack",
-          "title": "Winter Clearance Event!  Up to 75% Off Apparel, Handbags & More",
-          "offer_button_label": "Get Deal",
-          "store_domain": "nordstromrack.com",
-          "coupon_uuid": "BIPO7VKNAZGFVBAPJJSP224PPY",
-          "offer_type_label": "Sale",
-          "store_image": "http://o.emailcdn.com/thumbs/logos/l/nordstromrack.com-coupons.jpg"
-        },
-        {
-          "display_type": "store_image",
-          "coupon_url": "https://ar.rmntest.com/v1.0/emailClick?campaignUuid=RV2OKYX36VAQ3HZXCOTECTRX2M&type=COUPON&redirectUrl=https%3A%2F%2Fo.retailmenot.com%2FA5YQMO2AQFAH5AATLXPYJ27VMA%3FpageName%3DRV2OKYX36VAQ3HZXCOTECTRX2M%26utm_medium%3Demail%26utm_campaign%3D2020-01-29%26ch%3Dnewsl%26utm_source%3Dnewsletter%26utm_term%3Dcontrol%26cus.ptp%3Dflagship%26campaignUuid%3DRV2OKYX36VAQ3HZXCOTECTRX2M",
-          "store_name": "UGG",
-          "title": "Up to 60% Off Women's Shoes, Clothing & Accessories",
-          "offer_button_label": "Get Deal",
-          "store_domain": "ugg.com",
-          "coupon_uuid": "A5YQMO2AQFAH5AATLXPYJ27VMA",
-          "offer_type_label": "Sale",
-          "store_image": "http://o.emailcdn.com/thumbs/logos/l/ugg.com-coupons.jpg"
-        },
-        {
           "display_type": "lifestyle_image",
-          "coupon_url": "https://ar.rmntest.com/v1.0/emailClick?campaignUuid=RV2OKYX36VAQ3HZXCOTECTRX2M&type=COUPON&redirectUrl=https%3A%2F%2Fwww.retailmenot.com%2Flanding5%2Folivegarden.com%3Futm_content%3D11976798%26unit_id%3DATGKJ6Q6SJACQKS7ESGQAAAAAA%26u%3D3OT4LF3WGFF2JKKZLNDQVGLCDI%26c%3D11976798%26utm_medium%3Demail%26utm_campaign%3D2020-01-29%26ch%3Dnewsl%26utm_source%3Dnewsletter%26utm_term%3Dcontrol%26cus.ptp%3Dflagship%26campaignUuid%3DRV2OKYX36VAQ3HZXCOTECTRX2M",
-          "store_name": "Olive Garden",
-          "title": "Limited Time Only! BOGO 50% Off Lunch Entrees",
-          "offer_button_label": "See Sale",
-          "store_domain": "olivegarden.com",
-          "coupon_uuid": "3OT4LF3WGFF2JKKZLNDQVGLCDI",
-          "offer_type_label": "In-Store Sale",
-          "lifestyle_image": "https://mediaservice.rmn.com/image/557QEEVHJ5HMVNYLVDKRHAPVWM",
-          "store_image": "http://o.emailcdn.com/thumbs/logos/l/olivegarden.com-coupons.jpg"
+          "coupon_url": "https://t.rmn.co/WxY",
+          "store_name": "Samsung",
+          "title": "Go Big, Save Big! Score Up to 50% Off Select Big Screen TVs",
+          "offer_button_label": "Get Deal",
+          "store_domain": "samsung.com",
+          "coupon_uuid": "N3BABWB6HBF7LHBNWZS5K7GG7Q",
+          "offer_type_label": "Sale",
+          "lifestyle_image": "https://mediaservice.rmn.com/image/CJE4AW76YVD47LEGOJ2XRWRFGY",
+          "store_image": "http://o.emailcdn.com/thumbs/logos/l/samsung.com-coupons.jpg"
+        },
+        {
+          "display_type": "store_image",
+          "coupon_url": "https://t.rmn.co/FRr",
+          "store_name": "Sephora",
+          "title": "Up to 80% Off Sale",
+          "offer_button_label": "Get Deal",
+          "store_domain": "sephora.com",
+          "coupon_uuid": "737QSBVGT5FH5CLA5GMOGWL7EA",
+          "offer_type_label": "Sale",
+          "store_image": "http://o.emailcdn.com/thumbs/logos/l/sephora.com-coupons.jpg"
+        },
+        {
+          "display_type": "store_image",
+          "coupon_url": "https://t.rmn.co/e9z",
+          "store_name": "Alaska Airlines",
+          "title": "One-Way Flight Deals From $49",
+          "offer_button_label": "Get Deal",
+          "store_domain": "alaskaair.com",
+          "coupon_uuid": "6PNW3MVDGRFKBDAHCIVLIEP55I",
+          "offer_type_label": "Sale",
+          "store_image": "http://o.emailcdn.com/thumbs/logos/l/alaskaair.com-coupons.jpg"
+        },
+        {
+          "display_type": "store_image",
+          "coupon_url": "https://t.rmn.co/nti",
+          "store_name": "Southwest",
+          "title": "Spring Travel Sale! One-Way Fares As Low As $59",
+          "offer_button_label": "Get Deal",
+          "store_domain": "southwest.com",
+          "coupon_uuid": "335EXHM3U5CCFGZXQJC6CPJTZI",
+          "offer_type_label": "Sale",
+          "store_image": "http://o.emailcdn.com/thumbs/logos/l/southwest.com-coupons.jpg"
+        },
+        {
+          "display_type": "store_image",
+          "coupon_url": "https://t.rmn.co/GAa",
+          "store_name": "Kate Spade",
+          "title": "Up to 40% Off Select Styles",
+          "offer_button_label": "Get Deal",
+          "store_domain": "katespade.com",
+          "coupon_uuid": "3STLJ2CNHNBOTIQSURGSCRDBFQ",
+          "offer_type_label": "Sale",
+          "store_image": "http://o.emailcdn.com/thumbs/logos/l/katespade.com-coupons.jpg"
         }
       ]
     }
   ]
 }
+
 
 }
